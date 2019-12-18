@@ -1,4 +1,4 @@
-![this is taken from GOOGLE BLOG](tSNE.gif?style=centerme)
+![SGD](SGD image.png?style=centerme)
 
 
 
