@@ -1,4 +1,4 @@
-![SGD](SGD image.png?style=centerme)
+![SGD](sgd image.png?style=centerme)
 
 
 
